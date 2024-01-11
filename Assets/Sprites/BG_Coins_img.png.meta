@@ -1,0 +1,424 @@
+fileFormatVersion: 2
+guid: 8357dd23ce23e344ca28dd2c197acdad
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3905060547105306056
+    second: BG_Coinds-removebg-preview_0
+  - first:
+      213: -6728743630445861956
+    second: BG_Coinds-removebg-preview_1
+  - first:
+      213: -4723252919792410915
+    second: BG_Coinds-removebg-preview_2
+  - first:
+      213: -7723690462857480262
+    second: BG_Coinds-removebg-preview_3
+  - first:
+      213: -1381507041632596685
+    second: BG_Coinds-removebg-preview_4
+  - first:
+      213: -6644077335733942039
+    second: BG_Coinds-removebg-preview_5
+  - first:
+      213: -7028688686580509469
+    second: BG_Coinds-removebg-preview_6
+  - first:
+      213: 3018252478892889660
+    second: BG_Coinds-removebg-preview_7
+  - first:
+      213: 3548320182812009429
+    second: BG_Coinds-removebg-preview_8
+  - first:
+      213: 1797332565083340120
+    second: BG_Coinds-removebg-preview_9
+  - first:
+      213: 2562885250762777402
+    second: BG_Coinds-removebg-preview_10
+  - first:
+      213: -973370533122768173
+    second: BG_Coinds-removebg-preview_11
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: BG_Coinds-removebg-preview_0
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 289
+        width: 51
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83a456f4f107ec9c0800000000000000
+      internalID: -3905060547105306056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_Coinds-removebg-preview_1
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 310
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb32a9a8153be92a0800000000000000
+      internalID: -6728743630445861956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_Coinds-removebg-preview_2
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 251
+        width: 72
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dde527b8e72a37eb0800000000000000
+      internalID: -4723252919792410915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_Coinds-removebg-preview_3
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 289
+        width: 55
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab7be462270ffc490800000000000000
+      internalID: -7723690462857480262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_Coinds-removebg-preview_4
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 278
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33dc9c84aa6e3dce0800000000000000
+      internalID: -1381507041632596685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_Coinds-removebg-preview_5
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 181
+        width: 75
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e8ca5f6dde7bc3a0800000000000000
+      internalID: -6644077335733942039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_Coinds-removebg-preview_6
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 177
+        width: 91
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e4df8f01e4157e90800000000000000
+      internalID: -7028688686580509469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_Coinds-removebg-preview_7
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 97
+        width: 67
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c365ade53acf2e920800000000000000
+      internalID: 3018252478892889660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_Coinds-removebg-preview_8
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 132
+        width: 39
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d3ebdd086a2e3130800000000000000
+      internalID: 3548320182812009429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_Coinds-removebg-preview_9
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 91
+        width: 39
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85db80df17861f810800000000000000
+      internalID: 1797332565083340120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_Coinds-removebg-preview_10
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 39
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a33adcb8e82319320800000000000000
+      internalID: 2562885250762777402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_Coinds-removebg-preview_11
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 14
+        width: 85
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d2826248a4ed72f0800000000000000
+      internalID: -973370533122768173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      BG_Coinds-removebg-preview_0: -3905060547105306056
+      BG_Coinds-removebg-preview_1: -6728743630445861956
+      BG_Coinds-removebg-preview_10: 2562885250762777402
+      BG_Coinds-removebg-preview_11: -973370533122768173
+      BG_Coinds-removebg-preview_2: -4723252919792410915
+      BG_Coinds-removebg-preview_3: -7723690462857480262
+      BG_Coinds-removebg-preview_4: -1381507041632596685
+      BG_Coinds-removebg-preview_5: -6644077335733942039
+      BG_Coinds-removebg-preview_6: -7028688686580509469
+      BG_Coinds-removebg-preview_7: 3018252478892889660
+      BG_Coinds-removebg-preview_8: 3548320182812009429
+      BG_Coinds-removebg-preview_9: 1797332565083340120
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
